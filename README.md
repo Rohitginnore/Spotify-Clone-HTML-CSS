@@ -25,4 +25,6 @@ The project focuses on building a clean and responsive frontend layout inspired 
 ---
 
 ## 📂 Project Structure
-
+📸 Screenshot: assets/project-preview.png  
+🌐 Live Demo: https://rohitginnore.github.io/Spotify-Clone-HTML-CSS/  
+🎥 Video Demo: C:\Users\ginno\OneDrive\spotify-clone
